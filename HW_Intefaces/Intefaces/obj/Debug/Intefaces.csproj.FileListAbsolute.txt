@@ -1,0 +1,5 @@
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\HW_Intefaces\Intefaces\bin\Debug\Intefaces.dll
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\HW_Intefaces\Intefaces\bin\Debug\Intefaces.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\HW_Intefaces\Intefaces\obj\Debug\Intefaces.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\HW_Intefaces\Intefaces\obj\Debug\Intefaces.dll
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\HW_Intefaces\Intefaces\obj\Debug\Intefaces.pdb
